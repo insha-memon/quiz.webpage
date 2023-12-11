@@ -10,11 +10,11 @@ This project is a simple quiz application built using HTML, CSS, and JavaScript.
 - Interactive quiz with multiple-choice questions.
 - Dynamic question and answer rendering.
 - Immediate feedback on correct and incorrect answers.
-- Final score display at the end of the quiz.
+- Final score displayed at the end of the quiz.
 
 ## Getting Started
 1. Clone the repository:
-   git clone [repository_url]
+   git clone [https://github.com/insha-memon/quiz.webpage/tree/main]
   
 2. Open the project in your preferred code editor.
 
